@@ -1,3 +1,3 @@
 # studious-potato
-estou aprendendo a mecher no GitHub 
+estou aprendendo a mecher no GitHub, 
 querendo aprender a programar
